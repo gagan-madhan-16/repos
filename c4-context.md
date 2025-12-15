@@ -15,7 +15,7 @@ flowchart LR
     %% =======================
     %% Actors
     %% =======================
-    Researcher["👨‍🔬 Researcher / Scientist\n(End User)"]
+    Researcher['👨‍🔬 Researcher / Scientist\n(End User)']
     Browser["🌐 Web Browser"]
 
     %% =======================
